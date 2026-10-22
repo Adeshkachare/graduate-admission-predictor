@@ -256,7 +256,7 @@ The project uses the public Graduate Admissions dataset containing 500 records.
 **Adesh Kachare**
 
 - GitHub: [Adeshkachare](https://github.com/Adeshkachare)
-- LinkedIn: [Connect with me]([[https://www.linkedin.com/in/adesh-k-b90a6a275/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwSx5iC62TvaZww6q8h5hHQ%3D%3D])
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/adesh-k-b90a6a275/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwSx5iC62TvaZww6q8h5hHQ%3D%3D)
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 

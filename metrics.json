@@ -1,0 +1,25 @@
+{
+  "best": "Lasso",
+  "results": {
+    "Linear Regression": {
+      "cv_r2": 0.7807,
+      "test_r2": 0.8212,
+      "test_mae": 0.048
+    },
+    "Ridge": {
+      "cv_r2": 0.7805,
+      "test_r2": 0.8204,
+      "test_mae": 0.048
+    },
+    "Lasso": {
+      "cv_r2": 0.7812,
+      "test_r2": 0.8172,
+      "test_mae": 0.0486
+    },
+    "Random Forest": {
+      "cv_r2": 0.7343,
+      "test_r2": 0.8064,
+      "test_mae": 0.05
+    }
+  }
+}

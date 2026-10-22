@@ -14,7 +14,7 @@ An ML-powered web application that estimates a student's chance of graduate admi
 ![pandas](https://img.shields.io/badge/pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-788c5d?style=for-the-badge)
 
-[**🚀 Live Demo**](YOUR_STREAMLIT_LINK_HERE) · [**📂 Source Code**](https://github.com/Adeshkachare/graduate-admission-predictor) · [**🐞 Report a Bug**](https://github.com/Adeshkachare/graduate-admission-predictor/issues)
+[**📂 Source Code**](https://github.com/Adeshkachare/graduate-admission-predictor) · [**🐞 Report a Bug**](https://github.com/Adeshkachare/graduate-admission-predictor/issues)
 
 </div>
 
